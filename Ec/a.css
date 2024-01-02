@@ -1,0 +1,18 @@
+form{
+    background: radial-gradient(#fff,#ecb6b6);
+    font-size: larger;
+    margin: 0% 0;
+    padding: 50px;
+    width: 400px;
+    border-radius: 50px;
+    
+    margin: 100px;
+}
+input[type="button"]{
+    background: radial-gradient(#fff,#7cc075);
+    color: black;
+    padding: 12px 20px;
+    text-align: center;
+    border-radius: 5px;
+    width: 50%;
+    cursor: pointer;}
